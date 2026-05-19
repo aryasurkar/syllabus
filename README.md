@@ -2,7 +2,7 @@ This repo. contain the CSE study material of the Batch 2023-2027.
 The syllabus of the new batches is been updated due to changing trends in the technology and the job market. 
 The paper patterns of the new batches is changed. The activity format is been changed. 
 This batch was the experimental batch for the NEP and JDCOEM totally cooked and burnt down this batch into ashes. 
-It's me Arya Surkar, and I have managed this whole content with the pal named Abhishek and really sorry for the juniors that I failed as a seniors😞. 
+You address me as Vernier Caliper (The Hermit), and I have managed this whole content with the pal addressed as Guts (The Hanged Man) and really sorry for the juniors that I failed as a seniors😞. 
 Thats all I have to provide you. 
 Keep focusing on the acadmics (core subjects of CSE) Because CGPA is like filter TnP department will choose only those students with higher grades not the one who is skilled in the one domain. 
 The Exams are too easy, write random shit in the exam and you will get 70+ in the Theory. 
