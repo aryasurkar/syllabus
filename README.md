@@ -38,6 +38,14 @@ Engineering flies by. Don't leave this campus with just a degree; leave it with 
 
 ---
 
+## 📂 Repository Structure
+
+To keep this page clean, the complete folder-level hierarchy of the repository is documented in a separate file:
+
+👉 **[structural_index.md](structural_index.md)**
+
+---
+
 ## 📩 Contact & Contributions
 
 To contribute notes, suggest corrections, or reach out regarding the data:
