@@ -1,6 +1,6 @@
 # 📖 CSE Repository Subject & Document Index
 
-This document provides a breakdown of subjects covered in this repository and acts as a quick-access index to locate essential administrative documents (Timetables, Exam Forms, Results, and TG Forms).
+This document provides a breakdown of subjects covered in this repository.
 
 ## 🔍 Seniors Contact
 
