@@ -1,6 +1,16 @@
-# 📂 JDCOEM CSE Repository Structure
+# 📖 CSE Repository Subject & Document Index
 
-This document contains the complete folder structural hierarchy of the study repository.
+This document provides a breakdown of subjects covered in this repository and acts as a quick-access index to locate essential administrative documents (Timetables, Exam Forms, Results, and TG Forms).
+
+## 🔍 Seniors Contact
+
+| Document Type          | Batch Year        | Location Path                                                                  |
+| :--------------------- | :---------------- | :----------------------------------------------------------------------------- |
+| **📞 Senior Contacts** | Batch 2023 & 2024 | [1st year/Senior Contacts/](file:///d:/syllabus/1st%20year/Senior%20Contacts/) |
+
+---
+
+## 📂 Folder Hierarchy Map
 
 ```text
 syllabus/
