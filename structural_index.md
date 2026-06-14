@@ -47,6 +47,7 @@ syllabus/
 │   │   ├── TG Form/
 │   │   └── XYZ/
 │   ├── Result/
+│   │
 │   └── Senior Contacts/
 │
 │
@@ -169,13 +170,9 @@ syllabus/
         └── Syllabus & Other/
             ├── 1) Syllabus & Activities/
             ├── 2) Undertaking, Academic Calendar & Rubrics/
-            │   └── Rubrics/
             ├── 3) Exam Form/
             ├── 4) Clearence/
             ├── 5) Timetable & Important Notices/
-            │   ├── Important Notices/
-            │   ├── MSE 1/
-            │   └── MSE 2/
             ├── 6) Sem 6 TG Performance Chart/
             └── 7) Lists/
                 ├── Detention list/
