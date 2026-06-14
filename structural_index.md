@@ -82,7 +82,7 @@ syllabus/
 │   │       ├── 4) Open Elective II (Japanese Language)/
 │   │       ├── 5) Principles of Corporate Success/
 │   │       ├── 6) Engineering Economics/
-│   │       ├── 7) Intellectual Property Rights//
+│   │       ├── 7) Intellectual Property Rights/
 │   │       ├── 8) Practical Labs/
 │   │       │   ├── Design & Analysis of Algorithms Lab/
 │   │       │   ├── Graphics Programming & Animation Lab/
@@ -141,7 +141,7 @@ syllabus/
     │       ├── 7) Lists/
     │       ├── Exam Form/
     │       └── Incentives & Achievements/
-    |
+    │
     │
     └── 6th Sem/
         ├── 1) Cloud Computing/
@@ -165,7 +165,7 @@ syllabus/
         │   ├── Cloud Computing Lab/
         │   ├── Full Stack Development/
         │   └── NoSQL Database Lab/
-        ├── 8) Mini Project, JDCAP & Cluster/oints/
+        ├── 8) Mini Project, JDCAP & Cluster/
         └── Syllabus & Other/
             ├── 1) Syllabus & Activities/
             ├── 2) Undertaking, Academic Calendar & Rubrics/
