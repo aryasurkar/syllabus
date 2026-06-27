@@ -1,8 +1,8 @@
 # JDCOEM CSE (Batch 2023–2027) Study Repository
 
-Welcome to the central archive of CSE study materials for the **2023–2027 Batch**, curated by **Vernier Caliper (Mr. Hermit)** and **Guts (Mr. Hanged Man)**.
+Welcome to the central archive of CSE study materials for the **2023–2027 Batch**, curated by **Vernier Caliper (Mr. Hermit)**, **Guts (Mr. Hanged Man)** and other  ***JDCOEM Tarot Club*** Members.
 
-> 🤝 **Looking to Connect?** Check out the **"Senior Contact" folder inside the First Year folder** to reach out to us directly.
+> 🤝 **Looking to Connect?** Check out the **"Senior Contact" folder inside the First Year folder** to reach out directly.
 
 ## 📂 Repository Structure
 
@@ -20,3 +20,7 @@ To contribute notes, suggest corrections, or reach out regarding the data:
 - **Instagram:** [@jdcoemcse](https://instagram.com/jdcoemcse)
 
 Good luck.
+
+Copyright (c) 2026 jdcoemcse
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
