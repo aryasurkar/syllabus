@@ -54,52 +54,44 @@ syllabus/
 │
 │
 ├── 2nd Year/
-│   ├── Batch 23-27/
-│   │   ├── 3rd Sem/
-│   │   │   ├── 1) Computer Architecture and organization/
-│   │   │   ├── 2) Computer Networks/
-│   │   │   ├── 3) Operating System/
-│   │   │   ├── 4) Numerical Methods and Discrete Mathematics/
-│   │   │   ├── 5) Open Elective I (E waste Management)/
-│   │   │   ├── 6) Entrepreneurship Development/
-│   │   │   ├── 7) Universal Human Values/
-│   │   │   ├── 8) Practical Labs/
-│   │   │   │   ├── Object Techniques & UML Lab/
-│   │   │   │   ├── Python Programming Lab/
-│   │   │   │   └── Web Technology Lab/
-│   │   │   ├── 9) Syllabus and Important Documents/
-│   │   │   │   ├── 1) Syllabus and Calendar/
-│   │   │   │   ├── 2) Open Elective-1 III Sem Syllabus/
-│   │   │   │   ├── 3) Exam Form/
-│   │   │   │   ├── 4) Clearance/
-│   │   │   │   └── 5) Sem 3 TG performance Chart/
-│   │   │   └── Result/
-│   │   │
-│   │   │
-│   │   └── 4th Sem/
-│   │       ├── 1) Design and Analysis of Algorithm/
-│   │       ├── 2) Formal Language and Automata Theory/
-│   │       ├── 3) Business Ethics and Organizational Dynamics/
-│   │       ├── 4) Open Elective II (Japanese Language)/
-│   │       ├── 5) Principles of Corporate Success/
-│   │       ├── 6) Engineering Economics/
-│   │       ├── 7) Intellectual Property Rights/
-│   │       ├── 8) Practical Labs/
-│   │       │   ├── Design & Analysis of Algorithms Lab/
-│   │       │   ├── Graphics Programming & Animation Lab/
-│   │       │   └── Java Programming Lab/
-│   │       └── 9) Syllabus and Important Documents/
-│   │           ├── 1) Syllabus and Rubrics/
-│   │           ├── 2) Exam Form/
-│   │           ├── 3) Clearance/
-│   │           └── 4) Sem 4 TG Performance Chart/
+│   ├── 3rd Sem/
+│   │   ├── 1) Computer Architecture and organization/
+│   │   ├── 2) Computer Networks/
+│   │   ├── 3) Operating System/
+│   │   ├── 4) Numerical Methods and Discrete Mathematics/
+│   │   ├── 5) Open Elective I (E waste Management)/
+│   │   ├── 6) Entrepreneurship Development/
+│   │   ├── 7) Universal Human Values/
+│   │   ├── 8) Practical Labs/
+│   │   │   ├── Object Techniques & UML Lab/
+│   │   │   ├── Python Programming Lab/
+│   │   │   └── Web Technology Lab/
+│   │   ├── 9) Syllabus and Important Documents/
+│   │   │   ├── 1) Syllabus and Calendar/
+│   │   │   ├── 2) Open Elective-1 III Sem Syllabus/
+│   │   │   ├── 3) Exam Form/
+│   │   │   ├── 4) Clearance/
+│   │   │   └── 5) Sem 3 TG performance Chart/
+│   │   └── Result/
 │   │
 │   │
-│   └── Batch 24-28/
-│       ├── 3rd Sem/
-│       │   └── Question Paper Batch 2024-28/
-│       │       └── MSE1/
-│       └── 4th Sem/
+│   └── 4th Sem/
+│       ├── 1) Design and Analysis of Algorithm/
+│       ├── 2) Formal Language and Automata Theory/
+│       ├── 3) Business Ethics and Organizational Dynamics/
+│       ├── 4) Open Elective II (Japanese Language)/
+│       ├── 5) Principles of Corporate Success/
+│       ├── 6) Engineering Economics/
+│       ├── 7) Intellectual Property Rights/
+│       ├── 8) Practical Labs/
+│       │   ├── Design & Analysis of Algorithms Lab/
+│       │   ├── Graphics Programming & Animation Lab/
+│       │   └── Java Programming Lab/
+│       └── 9) Syllabus and Important Documents/
+│           ├── 1) Syllabus and Rubrics/
+│           ├── 2) Exam Form/
+│           ├── 3) Clearance/
+│           └── 4) Sem 4 TG Performance Chart/
 │
 │
 │
