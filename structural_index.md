@@ -2,14 +2,6 @@
 
 This document provides a breakdown of subjects covered in this repository.
 
-## 🔍 Seniors Contact
-
-| Document Type          | Batch Year        | Location Path                                                                  |
-| :--------------------- | :---------------- | :----------------------------------------------------------------------------- |
-| **📞 Senior Contacts** | Batch 2023 & 2024 | [1st year/Senior Contacts/](file:///d:/syllabus/1st%20year/Senior%20Contacts/) |
-
----
-
 ## 📂 Folder Hierarchy Map
 
 ```text
